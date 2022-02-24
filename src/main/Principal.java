@@ -36,5 +36,6 @@ public class Principal {
                 default: break;    
             }
         }
+        System.out.println("Pertenezco a la rama prueba");
     }
 }
